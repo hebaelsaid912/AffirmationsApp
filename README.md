@@ -1,6 +1,6 @@
 # Simple App
 
- Application to confirm the study more about 
+ Application to confirm more about 
 - Kotlin
 - Recycle View
 
